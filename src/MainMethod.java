@@ -5,6 +5,7 @@ public class MainMethod {
 		System.out.println("First Project in Git");
 		System.out.println("First Project in Git - added by First Guy");
 		System.out.println("First Project in Git - added by First Guy - second");
+		System.out.println("First Project in Git - added by First Guy - Third");
 	}
 
 }
